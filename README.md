@@ -1,4 +1,4 @@
-# screenshot-to-code
+# screenshot-to-code 网页截屏生成代码
 
 This simple app converts a screenshot to code (HTML/Tailwind CSS, or React or Vue or Bootstrap). It uses GPT-4 Vision to generate the code and DALL-E 3 to generate similar-looking images. You can now also enter a URL to clone a live website!
 
